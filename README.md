@@ -10,7 +10,7 @@ when you build it won’t work. And make sure your Streaming
 assets folder is in the assets folder, not in any subfolder,
 and that the language you want is included in that folder
 
-Here is the link for the Unity Package, on google docs 
+Here is the link for the Unity Package, on google drive 
 because I don’t know how to do things
 [Package Download](https://drive.google.com/file/d/10ny1OJ2e1_qvqlMX7_WISeC9GmGrmxH4/view?usp=sharing)
 
